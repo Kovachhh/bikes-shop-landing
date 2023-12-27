@@ -5,7 +5,7 @@ Technologies:
 - CSS
 - SCSS
 
-Preview - [LINK](https://kovachhh.github.io/bikes_shop_landing/)
+Preview - [LINK](https://kovachhh.github.io/bikes-shop-landing/)
 
 Mock-up - [LINK](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=41317-204&mode=design&t=Mh6syJUu3bINNA0t-0)
 
