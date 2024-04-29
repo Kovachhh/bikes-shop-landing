@@ -1,6 +1,6 @@
 'use strict';
 
-const phoneIconElement = document.getElementsByClassName('icon--phone')[0];
+const phoneIconElement = document.getElementById('call');
 const phoneNumberElement = document.getElementsByClassName(
   'top-bar__icons__phone__link',
 )[0];
