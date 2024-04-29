@@ -28,6 +28,10 @@
   @include content-padding-inline;
 }
 
+.hidden {
+  visibility: hidden;
+}
+
 @mixin hover($property, $toValue) {
   transition: $property $effect-duration;
   &:hover {

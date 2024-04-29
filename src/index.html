@@ -28,7 +28,10 @@
               ></img>
             </a>
             <div class="top-bar__icons">
-              <a href="#" class="icon icon--phone"></a>
+              <div class="top-bar__icons__phone">
+                <a href="tel:+1 234 5555-55-55" class="top-bar__icons__phone__link hidden">+1 234 555-55-55</a>
+                <a href="#" class="icon icon--phone"></a>
+              </div>
               <a href="#menu" class="icon icon--menu"></a>
             </div>
           </div>
@@ -42,8 +45,9 @@
     <aside class="page__menu menu" id="menu">
       <div class="container">
         <div class="top-bar menu__top">
-          <a href="#" class="top-bar__logo">
-            <img src="images/logo-black.png" alt="MyBike logo"></img>
+          <a href="#">
+            <img src="images/logo-black.png" alt="MyBike logo"
+            class="top-bar__logo"></img>
           </a>
           <div class="top-bar__icons">
             <a href="#" class="icon icon--close"></a>
